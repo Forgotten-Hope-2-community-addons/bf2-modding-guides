@@ -1,4 +1,4 @@
-# Battlefield 2 - Forgotten Hope 2 - Modding guides and develpoment tools
+# Battlefield 2 - Forgotten Hope 2 - Modding guides and development tools
 
 This repository contains everything I have collected over the years about modding Battlefield 2 and Forgotten Hope 2.
 
